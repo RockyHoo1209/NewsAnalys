@@ -1,0 +1,30 @@
+/*
+ * @description: qq新闻数据字段
+ * @param  {*}
+ * @return {*}
+ */
+1.window.DATA = {
+		"article_id": "20210422A0DKMB",
+		"article_type": "0",
+		"title": "看了就想给满分！数字中国建设峰会，稳了！",
+		"abstract": null,
+		"catalog1": "tech",
+		"catalog2": "tech_communication",
+		"media": "人民邮电报",
+		"media_id": "7242980",
+		"pubtime": "2021-04-22 20:43:53",
+		"comment_id": "6766607179",
+		"tags": "数字中国,中国移动,5g",
+		"political": 0,
+		"artTemplate": null,
+		"FztCompetition": null,
+		"FCompetitionName": null,
+		"is_deleted": 0,
+		"cms_id": "20210422A0DKMB00",
+		"videoArr": [],
+        "context":满足 class="one-p"
+}
+2.限制爬取的url规则
+3.数据库存储(分类)
+      
+    
